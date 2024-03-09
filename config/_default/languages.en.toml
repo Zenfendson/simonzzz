@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Simonz"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "Xitong(Simon) Zheng"
+image = "img/author.jpg"
+headline = "A passionate SDE in HPC, ML, GPU & FPGA"
+bio = "Hi, I am Simon Zheng"
+links = [
+  { Linkedin = "https://www.linkedin.com/in/xitong-zheng-5b6543205/" },
+  { Github = "https://github.com/Zenfendson" }
+]
+
+
