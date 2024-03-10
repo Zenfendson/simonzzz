@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Simonz"
+title = "Simonzzz"
 
 [params]
 displayName = "EN"
@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [author]
-name = "Xitong(Simon) Zheng"
+name = "Xitong (Simon) Zheng"
 image = "img/author.jpg"
 headline = "A passionate SDE in HPC, ML, GPU & FPGA"
 bio = "Hi, I am Simon Zheng"
