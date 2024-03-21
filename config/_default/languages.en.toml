@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Xitong (Simon) Zheng"
-#image = "img/author.jpg"
+image = "img/author.jpg"
 headline = "Boardly interested in HPC, ML, GPU & FPGA"
 #bio = "Hi, I am Simon Zheng"
 links = [
