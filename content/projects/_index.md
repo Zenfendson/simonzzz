@@ -3,6 +3,6 @@ title: "Projects"
 description: "Learn about some of my projects."
 ---
 
-Some little reveal of mine
+A Glimpse into My Workshop
 ---
-Here comes some of my interesting projects all the way. I hope you can find novalty in those and share some of the common insights.
+Here, my projects stand as milestones on a journey through imagination and discovery. Each one is a blend of passion and curiosity, offering some insights into a world where ideas take form.
