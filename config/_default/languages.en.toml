@@ -15,8 +15,8 @@ image = "img/author.jpg"
 headline = "Boardly interested in HPC, ML, GPU & FPGA"
 #bio = "Hi, I am Simon Zheng"
 links = [
-  { Linkedin = "https://www.linkedin.com/in/xitong-zheng-5b6543205/" },
-  { Github = "https://github.com/Zenfendson" }
+  { linkedin = "https://www.linkedin.com/in/xitong-zheng-5b6543205/" },
+  { github = "https://github.com/Zenfendson" },
 ]
 
 

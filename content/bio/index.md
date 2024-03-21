@@ -2,12 +2,11 @@
 title: "Bio"
 description: "Learn more about myself"
 draft: false
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
-  showReadingTime : false
-  showWordCount : false
+showDate: false
+showAuthor: false
+invertPagination: true
+showReadingTime : false
+showWordCount : false
 ---
 
 {{< typeit >}}
